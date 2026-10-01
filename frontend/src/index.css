@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  /* Donezo HSL Themes for Tailwind v4 */
+  --color-primary: hsl(159, 85%, 15%);
+  --color-primary-hover: hsl(159, 80%, 20%);
+  --color-accent: hsl(148, 63%, 43%);
+  --color-accent-light: hsl(148, 60%, 93%);
+  --color-panel: #fafafa;
+  
+  --color-success-accent: hsl(148, 63%, 43%);
+  --color-success-accent-bg: hsl(148, 60%, 93%);
+  --color-warning-accent: hsl(38, 92%, 50%);
+  --color-warning-accent-bg: hsl(38, 92%, 93%);
+  --color-danger-accent: hsl(350, 89%, 60%);
+  --color-danger-accent-bg: hsl(350, 89%, 95%);
+  --color-info-accent: hsl(200, 95%, 50%);
+  --color-info-accent-bg: hsl(200, 95%, 93%);
+}
+
+@layer base {
+  body {
+    background-color: #ffffff;
+    color: #1a202c;
+    font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+  }
+}
