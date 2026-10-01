@@ -2,7 +2,7 @@
 
 AssetFlow is a web application designed to track, schedule, maintain, and audit corporate physical assets, rooms, vehicles, and equipment centrally.
 
-This repository contains both the **Express Node.js Backend** and the **Vite React Frontend** configured to run with a cloud-hosted **PostgreSQL** database (via Neon DB).
+This repository contains both the **Express Node.js Backend** and the **Vite React Frontend** configured to run with a cloud-hosted **PostgreSQL** database (via Neon DB)..
 
 ---
 
